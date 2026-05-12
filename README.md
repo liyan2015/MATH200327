@@ -15,5 +15,5 @@
 - 魏平主编，《概率论与数理统计综合辅导》，西安交通大学出版社，2010
 
 作业提交注意事项：
-- 将作业扫描成电子版提交至思源学堂（https://class.xjtu.edu.cn）
-- 提交方法：【腾讯文档】概率统计与随机过程（数理统计与随机过程半学期）作业提交方法 https://docs.qq.com/doc/DQ3BuUHJ6Rm1tdVh0
+- 将作业扫描成电子版提交至思源学堂：https://lms.xjtu.edu.cn/course/27465/homework
+- 提交方法：【腾讯文档】概率统计与随机过程（数理统计与随机过程半学期）作业提交方法：https://docs.qq.com/doc/DQ3BuUHJ6Rm1tdVh0
